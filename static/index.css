@@ -1,0 +1,43 @@
+header{
+    position: static;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+nav{
+    margin-left: auto;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    text-align: right;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
+
+
+.container1{
+    column-count: 3;
+    column-gap: 30px;
+    font-size: 18px;
+}
+.card{
+    background-color: aquamarine;
+    border: 5px solid black;
+    padding: 20ox;
+    margin: 0 0 1am 0;
+}
+
