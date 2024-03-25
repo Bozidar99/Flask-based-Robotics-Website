@@ -54,6 +54,7 @@ nav ul li a{
     padding: 1em;
 }
 
+
 .container1 .box ul li{
     margin-bottom: 12px;
 }
@@ -62,3 +63,23 @@ nav ul li a{
     text-decoration: none;
     color: white;
 }
+
+.container3 .box ul li{
+    margin-bottom: 12px;
+}
+
+.container3 .box ul li a{
+    text-decoration: none;
+    color: white;
+}
+.box2{
+    float: right;
+    margin-left: 15px;
+    width: 200px;
+    height: 407px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 1em;
+}
+
