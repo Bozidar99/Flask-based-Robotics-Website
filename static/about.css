@@ -1,0 +1,49 @@
+body{
+    font-size: 18px;
+}
+header{
+    position: static;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+nav{
+    margin-left: auto;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    text-align: right;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
+
+
+
+footer {
+    position: static;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer h4,
+footer p {
+    text-align: center;
+}
