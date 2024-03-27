@@ -31,6 +31,23 @@ nav ul li a{
     color: white;
 }
 
+.box{
+    overflow: auto;
+    border-bottom: 10px dotted rgb(6, 163, 111);
+}
+.box img{
+    float: left;
+    margin: 15px;
+}
+
+.box2{
+    overflow: auto;
+}
+.box2 img{
+    float: right;
+    margin: 15px;
+}
+
 
 
 footer {
