@@ -31,41 +31,11 @@ nav ul li a{
     color: white;
 }
 
-.box{
-    overflow: auto;
-    border-bottom: 10px dotted rgb(6, 163, 111);
+main{
+    padding-top: 50px;
+    padding-left: 380px;
+    padding-bottom: 50px;
 }
-.box img{
-    float: left;
-    margin: 15px;
-}
-
-.box2{
-    overflow: auto;
-    border-bottom: 10px dotted rgb(6, 163, 111);
-}
-.box2 img{
-    float: right;
-    margin: 15px;
-}
-
-.box3{
-    overflow: auto;
-    border-bottom: 10px dotted rgb(6, 163, 111);
-}
-.box3 img{
-    float: left;
-    margin: 15px;
-}
-
-.box4{
-    overflow: auto;
-}
-.box4 img{
-    float: right;
-    margin: 15px;
-}
-
 
 footer {
     position: static;
