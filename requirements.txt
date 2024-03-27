@@ -1,2 +1,4 @@
 Flask
 cs50
+SQLAlchemy
+flask_sqlalchemy
