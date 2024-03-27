@@ -42,12 +42,21 @@ nav ul li a{
 
 .box2{
     overflow: auto;
+    border-bottom: 10px dotted rgb(6, 163, 111);
 }
 .box2 img{
     float: right;
     margin: 15px;
 }
 
+.box3{
+    overflow: auto;
+    border-bottom: 10px dotted rgb(6, 163, 111);
+}
+.box3 img{
+    float: left;
+    margin: 15px;
+}
 
 
 footer {
